@@ -3,4 +3,3 @@ The product gives answer choices for the user to choose from as a response to qu
 Person A sends a question that requires one of at least two different options to Person B.
 The app will find the multiple options and will give only the correct possible responses to Person B.
 Person B taps on one of the response options and properly replies to Person A's liking.
-Person B taps on one of the response options and properly replies to Person A's liking.
