@@ -196,7 +196,6 @@
       }
     }
 
-    /* Larger screens act like a demo for the app */
     @media only screen and (min-width: 960px) {
       #page {
         max-width: 480px;
