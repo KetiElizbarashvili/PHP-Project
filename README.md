@@ -7,3 +7,5 @@ The user selects the desired response by tapping one of the four quadrants of re
 As a txt questioner
 I want an actual answer to my question
 So That I don't loose my 🐸 'ing mind
+The user recieves a question, with the appropriate answers displayed in an easy to submit form.
+ 
